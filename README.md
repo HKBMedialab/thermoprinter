@@ -16,7 +16,7 @@ This guide helps printing files (Text, Images PDF) with a POS-58 Thermoprinter â
 
 ### 1. Download
 
-Download this repository to your Computer as a zip file and extract it.
+Download this repository to your Computer with the green Button above as a zip file and extract it.
 
 ### 2. Installation
 
