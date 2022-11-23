@@ -1,6 +1,6 @@
 # Thermoprinter
 
-This guide helps printing files (Text, Images PDF) with a POS-58 Thermoprinter – tested with Zijiang 58 – on **macOS 11+**.
+This guide helps printing files (Text, Images, PDF) with a POS-58 Thermoprinter – tested with Zijiang 58 – on **macOS 11+**.
 
 ---
 
